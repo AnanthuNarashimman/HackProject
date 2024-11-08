@@ -37,18 +37,18 @@ Flowchart:
 3) How to compete with BIG companies
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Solutions Found:
-1)a)Interactive banners and videos in homescreen.
-  b)Aggressive ad targetting using Adsense
-  c)Events which allow users to publicise the museum (ex:posting in social media)
-  d)Utilising the social media platform of Influencers and creating hype.
+1)-a)Interactive banners and videos in homescreen.
+  -b)Aggressive ad targetting using Adsense
+  -c)Events which allow users to publicise the museum (ex:posting in social media)
+  -d)Utilising the social media platform of Influencers and creating hype.
 
-2)a)VIP Membership Tiers
-  b)Loyalty Schemes
-  c)Coupons and discounts
+2)-a)VIP Membership Tiers
+  -b)Loyalty Schemes
+  -c)Coupons and discounts
 
-3)a)Governmental Tie-up
-  b)Tourism Packages
-  c)Foriegn tourism
+3)-a)Governmental Tie-up
+  -b)Tourism Packages
+  -c)Foriegn tourism
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
