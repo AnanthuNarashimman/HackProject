@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Problem statement:
 The problem which have chosen to tackle is the never ending and mistake ridden ticketing systems in our government run museums, we have utilised an AI based chatbot model which can book tickets. This resolves a lot of issues we normally face.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Solution: 
 Our project is a chatbot-based ticketing and support system designed specifically for museums. It combines efficient ticket booking with a customer service assistant that is accessible 24/7 to answer queries and provide guidance.
 The aim is to improve the visitor experience by simplifying ticket booking, addressing frequently asked questions about museum exhibits, hours, and amenities, and minimizing the need for direct human involvement in routine queries.
@@ -60,11 +60,9 @@ Flowchart:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Main Dependencies
-'''python
 import pymongo
 import rasa-sdk 
 import flask
 import connector
 import bcrypt
-'''
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
